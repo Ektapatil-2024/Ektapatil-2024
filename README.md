@@ -9,6 +9,17 @@
 I'm a fresher data scientist passionate about solving real-world problems using Machine Learning, Deep Learning, and NLP. Currently, I'm enhancing my skills through a **PG Diploma in Data Science** and working on exciting projects!
 
 ---
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://medium.com/@patilekta);
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: patile1411@gmail.com;
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1l2L9Hz7PaorCRemt3Ve4i4TjzUQzOADq/view?usp=drive_link).
+
+</br>
+
+
+
 
 ### 🔥 Skills & Technologies:
 - **Programming:** Python, R, SQL
