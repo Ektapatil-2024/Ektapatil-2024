@@ -1,16 +1,46 @@
-## Hi there 👋
+### <samp>&gt; Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Ekta Patil</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-<!--
-**Ektapatil-2024/Ektapatil-2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ekta-patil-7b746b310/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ekta_patil22?igsh=bHZubm12NXNndmR2&utm_source=qr)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@patilekta)
 
-Here are some ideas to get you started:
+🚀 **Aspiring Data Scientist | ML & DL Enthusiast | NLP Practitioner**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a fresher data scientist passionate about solving real-world problems using Machine Learning, Deep Learning, and NLP. Currently, I'm enhancing my skills through a **PG Diploma in Data Science** and working on exciting projects!
+
+---
+
+### 🔥 Skills & Technologies:
+- **Programming:** Python, R, SQL
+- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, PyTorch
+- **Deep Learning:** CNNs, RNNs, Transformers
+- **NLP:** Spacy, NLTK, Hugging Face
+- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Version Control:** Git, GitHub
+
+---
+
+### 📂 Featured Projects:
+🔹 [Project 1 - Predicting Customer Churn](https://github.com/yourusername/project1)  
+🔹 [Project 2 - Sentiment Analysis on Tweets](https://github.com/yourusername/project2)  
+🔹 [Project 3 - Image Classification with CNNs](https://github.com/yourusername/project3)  
+*(Check out my repositories for more!)*
+
+---
+
+### 📊 GitHub Stats:
+![Ekta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+### 📫 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+
+💡 *I’m always open to collaboration on innovative projects. Let’s connect!*
+
+
+
+
