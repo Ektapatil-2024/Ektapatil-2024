@@ -22,20 +22,21 @@ I'm a fresher data scientist passionate about solving real-world problems using 
 
 
 ### 🔥 Skills & Technologies:
-- **Programming:** Python, R, SQL
+- **Programming:** Python, SQL
 - **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, PyTorch
-- **Deep Learning:** CNNs, RNNs, Transformers
+- **Deep Learning:** CNNs, RNNs, Transformers,LSTM,OpenCv
 - **NLP:** Spacy, NLTK, Hugging Face
 - **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Version Control:** Git, GitHub
+- **Databases:** MySQL, PostgreSQL
+- **Version Control:**  GitHub
 
 ---
 
 ### 📂 Featured Projects:
-🔹 [Project 1 - Predicting Customer Churn](https://github.com/yourusername/project1)  
-🔹 [Project 2 - Sentiment Analysis on Tweets](https://github.com/yourusername/project2)  
-🔹 [Project 3 - Image Classification with CNNs](https://github.com/yourusername/project3)  
+🔹 [Project 1 - Cost_of_living-index-by-country-mid-2024 Dashboard](https://github.com/Ektapatil-2024/Cost_of_living-index-by-country-mid-2024)  
+🔹 [Project 2 - Deep-Learning-Stock-Trend-Prediction-Web-Application-LSTM](https://github.com/Ektapatil-2024/Deep-Learning-Stock-Trend-Prediction-Web-Application-LSTM-)  
+🔹 [Project 3 - Image Classificatio with CNNs](https://github.com/Ektapatil-2024/Open-cv-CNN-)  
+🔹[Project 4 - Portuguese-Bank-Marketing-ML](https://github.com/Ektapatil-2024/Portuguese-Bank-Marketing)
 *(Check out my repositories for more!)*
 
 ---
