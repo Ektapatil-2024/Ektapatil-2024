@@ -4,9 +4,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ekta_patil22?igsh=bHZubm12NXNndmR2&utm_source=qr)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@patilekta)
 
-🚀 **Aspiring Data Scientist | ML & DL Enthusiast | NLP Practitioner**
+🚀 **Data Analyst → Data Engineer**
 
-I'm a fresher data scientist passionate about solving real-world problems using Machine Learning, Deep Learning, and NLP. Currently, I'm enhancing my skills through a **PG Diploma in Data Science** and working on exciting projects!
+I work with data extraction, transformation, validation, ETL automation, SQL, Python, and business intelligence.
+
+I’m currently focused on building production-style data engineering projects using SQL, Python, ETL pipelines, Databricks, and data quality practices.
 
 ---
 **Talking about Personal Stuffs:**
@@ -22,13 +24,14 @@ I'm a fresher data scientist passionate about solving real-world problems using 
 
 
 ### 🔥 Skills & Technologies:
-- **Programming:** Python, SQL
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow, PyTorch
-- **Deep Learning:** CNNs, RNNs, Transformers,LSTM,OpenCv
-- **NLP:** Spacy, NLTK, Hugging Face
-- **Data Science Tools:** Pandas, NumPy, Matplotlib, Seaborn
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:**  GitHub
+**Languages**: Python, SQL
+**Data Engineering**: ETL, Data Pipelines, Data Transformation, Data Validation
+**Python**: Pandas, NumPy
+**Databases**: MS SQL Server
+**Cloud & Platforms**: Databricks, AWS
+**BI**: Power BI, DAX, Tableau
+**Automation**: Python, Excel VBA
+**AI**: Generative AI, RAG, LangChain
 
 ---
 
@@ -50,6 +53,16 @@ I'm a fresher data scientist passionate about solving real-world problems using 
 ### 📫 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ekta-patil-7b746b310/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patile1411@gmail.com)  
+
+
+📜 Certification
+Databricks Certified Data Engineer Associate
+Associate AI Engineer for Developers — DataCamp
+
+
+🎯 Current Focus
+Building scalable and reliable data pipelines and strengthening my skills in SQL, Python, Databricks, data modeling, orchestration, and data engineering best practices.
+
 
 💡 *I’m always open to collaboration on innovative projects. Let’s connect!*
 
